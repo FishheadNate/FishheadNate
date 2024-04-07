@@ -6,7 +6,7 @@ I’m currently working on improving boating access in Oklahoma through the [OK 
 ### Ask me about:
 - 🗺 Geospatial workflows using Python, PostGIS, R, Tippecanoe, Mapbox, Leaflet, Mapshaper, & QGIS
 - 🗜 Raster processing and tiling using GDAL
-- 🗄 ArcGIS REST API queries with Make, Python, & R
+- 🗄 ArcGIS REST API queries with GDAL, Python, & R
 - 📡 Cloud workflows and storage using AWS ECS, S3, & SharePoint
 - 🛥 Boating Access Grants through the [U.S. Fish & Wildlife Service's Boating Access Sub-program][fws_boating-access]
 - 🐦 SwiftUI Development for Beginners
