@@ -4,7 +4,7 @@ A former fish wrangler who leverages my passion for maps to enhance public acces
 I’m currently working on improving boating access in Oklahoma through the [OK Dept. of Wildlife Conservation][odwc] and created [FloodNotice][floodnotice_ios] to provide a convenient method for viewing stream flow observations and forecasts from the National Weather Service. Check out my [portfolio][portfolio_link] to see the other projects of interest.
 
 ### Ask me about:
-- 🗺 Geospatial workflows using Python, PostGIS, R, Tippecanoe, Mapbox, Leaflet, Mapshaper, & QGIS
+- 🗺 Geospatial workflows using Python, PostGIS, R, Tippecanoe, Mapbox, Leaflet, Mapshaper, Felt, & QGIS
 - 🗜 Raster processing and tiling using GDAL
 - 🗄 ArcGIS REST API queries with GDAL, Python, & R
 - 📡 Cloud workflows and storage using AWS ECS, S3, & SharePoint
