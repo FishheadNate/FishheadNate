@@ -17,7 +17,8 @@ I’m currently working on improving boating access in Oklahoma through the [OK 
 ⚡ Fun fact: I co-founded [Camp Ninja Warrior][cnw], an American Ninja Warrior style gym for youth in my local community.
 
 [cnw]:https://campninjawarrior.com/
-[floodnotice_ios]:https://testflight.apple.com/join/xFxmSgeN
+[floodnotice_beta]:https://testflight.apple.com/join/xFxmSgeN
+[floodnotice_ios]:https://apps.apple.com/us/app/floodnotice/id6446180837
 [fws_boating-access]:https://www.fws.gov/program/boating-access
 [notion_affiliate]:https://www.notion.so/product
 [odwc]:https://www.wildlifedepartment.com/
